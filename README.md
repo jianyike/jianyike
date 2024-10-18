@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I am studying for a master's degree in computer science in Xidian University
+- 🌱 I’m currently learning java, go, c++, artificial intelligence.
+- 🤔 I’m looking for help with how to find a good job
+- 📫 How to reach me: jianyike13@gmail.com
 
 <!--
 **jianyike/jianyike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
